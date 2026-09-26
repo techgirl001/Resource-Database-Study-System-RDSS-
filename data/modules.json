@@ -1,0 +1,22 @@
+[
+  {
+    "code": "PY-BASICS",
+    "name": "Python Basics"
+  },
+  {
+    "code": "PY-OOP",
+    "name": "Object-Oriented Programming"
+  },
+  {
+    "code": "PY-EXC",
+    "name": "Exception Handling"
+  },
+  {
+    "code": "PY-FILES",
+    "name": "File Handling"
+  },
+  {
+    "code": "PY-REGEX",
+    "name": "Regular Expressions"
+  }
+]
